@@ -695,6 +695,7 @@ display: flex;
     position: relative;
     text-align: left;
     padding-left: 29px;
+    cursor: pointer;
 }
 
 .footer-form-icon {
